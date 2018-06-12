@@ -1,0 +1,8 @@
+.content-container {
+    margin: 0 auto;
+    padding: 0 $m-size;
+    max-width: 120rem;
+}
+//when window is bigger than 80 rem, margins fill out
+//the abundant spaces. by using auto, spaces are evenlly
+//distributed
